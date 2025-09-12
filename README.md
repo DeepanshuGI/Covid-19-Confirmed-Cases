@@ -1,6 +1,6 @@
 <!-- Project Header -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Coronavirus_SARS-CoV-2.png" alt="COVID-19 Logo" width="200"/>
+  <img src="https://github.com/DeepanshuGI/Covid-19-Confirmed-Cases/blob/main/COVID-19%20Response%20Logo%20Languages_UN%20Emblem-EN.jpg" alt="COVID-19 Logo" width="200"/>
 </p>
 
 <h1 align="center">COVID-19 Global Trend Analysis & Visualization</h1>
